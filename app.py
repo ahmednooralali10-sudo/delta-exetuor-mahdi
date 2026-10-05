@@ -119,7 +119,7 @@ HTML_PAGE = '''
                 <i class="fa-brands fa-youtube"></i> شرح طريقة تحميل وتثبيت Delta iOS
             </div>
             <div class="responsive-video">
-                <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="شرح تحميل دلتا آي أو إس" allowfullscreen></iframe>
+                <iframe src="https://youtube.com/watch?v=XWD5RgCsedw&si=KYJsC1Wbun-J0oyB" title="شرح تحميل دلتا آي أو إس" allowfullscreen></iframe>
             </div>
         </div>
 
